@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>443425074993-rrh9c7nk064adf9ae9jl5rheomeerp6j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.443425074993-rrh9c7nk064adf9ae9jl5rheomeerp6j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCTIjuaQyntr57Kk61o7nA1wZ7XoJbpB2U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>443425074993</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>jina.Mascot</string>
+	<key>PROJECT_ID</key>
+	<string>mascot-1209d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mascot-1209d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:443425074993:ios:1926298fdcdf4eccc5ca10</string>
+</dict>
+</plist>

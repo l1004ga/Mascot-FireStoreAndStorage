@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "97C42409-36AE-45EA-98B2-E51FD1F4CF12"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84B12B06-FA93-478D-BA84-DC048ED83BF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5FAFEBA-6CE6-4F1C-AD4A-37EE7B81931F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C5FAFEBA-6CE6-4F1C-AD4A-37EE7B81931F - 9229f950f830d6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mascot.AuthStore.storeImageToStorage_Sync(profileImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Mascot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/Desktop/git/Mascot-FireStoreAndStorage/Mascot/Mascot/ViewModels/AuthStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "C5FAFEBA-6CE6-4F1C-AD4A-37EE7B81931F - 9229f950f830d6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mascot.AuthStore.storeImageToStorage_Sync(profileImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Mascot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/Desktop/git/Mascot-FireStoreAndStorage/Mascot/Mascot/ViewModels/AuthStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C930CA0-9228-4948-9456-AE81B0A9A2FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3C930CA0-9228-4948-9456-AE81B0A9A2FA - 9229f950f830d6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mascot.AuthStore.storeImageToStorage_Sync(profileImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Mascot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/Desktop/git/Mascot-FireStoreAndStorage/Mascot/Mascot/ViewModels/AuthStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "3C930CA0-9228-4948-9456-AE81B0A9A2FA - 9229f950f830d6bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Mascot.AuthStore.storeImageToStorage_Sync(profileImage: __C.UIImage) -&gt; ()"
+                  moduleName = "Mascot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/Desktop/git/Mascot-FireStoreAndStorage/Mascot/Mascot/ViewModels/AuthStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "404">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CFF4D0F-B902-4AA2-99B0-C0EB21DE3178"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "144"
+            endingLineNumber = "144"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A283891-8510-438A-8EF4-A0873E17D53F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D794426C-C6BE-4A2B-A6DE-2F989884A484"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9EA095AF-1678-4422-93BB-1E3E305D71E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2517AC20-1E6D-4096-9771-A54F961539FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E51F4A7C-B702-4AC9-84E8-ACAAE598C262"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E51F4A7C-B702-4AC9-84E8-ACAAE598C262 - 6ec70c272a1b36fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Mascot.AuthStore.downloadImageURL_Sync(FirebaseStorage.StorageReference) -&gt; ()"
+                  moduleName = "Mascot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/Desktop/git/Mascot-FireStoreAndStorage/Mascot/Mascot/ViewModels/AuthStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "456">
+               </Location>
+               <Location
+                  uuid = "E51F4A7C-B702-4AC9-84E8-ACAAE598C262 - 6ec70c272a1b36fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Mascot.AuthStore.downloadImageURL_Sync(FirebaseStorage.StorageReference) -&gt; ()"
+                  moduleName = "Mascot"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dev/Desktop/git/Mascot-FireStoreAndStorage/Mascot/Mascot/ViewModels/AuthStore.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B83F921-D97C-4A43-B203-AD1FE20A936D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8804872F-AAA1-48DC-91AF-A7B26FF5EC77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Mascot/ViewModels/AuthStore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "AuthStore"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
